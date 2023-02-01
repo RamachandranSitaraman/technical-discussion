@@ -9,3 +9,6 @@ This is a hello world code [my code](https://gist.github.com/RamachandranSitaram
 
 ##Colab noteobook
 * This is a link to my [notebook](https://colab.research.google.com/drive/1vycjxQuqDC1Sj5RK0XreKpj2s302AbYs?usp=sharing)
+
+##Image
+https://github.com/RamachandranSitaraman/technical-discussion/issues/1#issue-1565222603
